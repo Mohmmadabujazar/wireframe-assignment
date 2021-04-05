@@ -14,7 +14,7 @@ else if (car== "lada") {document.write("<img src='https://encrypted-tbn0.gstatic
 }
 
 */
-
+/*
 var password = prompt("please enter your password");
 while(password !=='123'){
     password = prompt("your passward is wrong please try again");
